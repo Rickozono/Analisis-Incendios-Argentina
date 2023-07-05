@@ -1,4 +1,4 @@
-# Analisis-Incendios-Argentina
+# Analisis Incendios Argentina
 Análisis sobre los incendios en Argentina desde 1993 al 2019.
 
 Proyecto de la capacitación de Power BI de Quales Group (2023).
