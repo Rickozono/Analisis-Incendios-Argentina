@@ -18,18 +18,19 @@ Se pueden observar la cantidad de incendios y las hectáreas incendiadas tanto p
 A continuación se presentan las distintas visualizaciones del reporte:
 
 ## Incendios totales
-![image](https://github.com/Rickozono/Analisis-Incendios-Argentina/assets/51711170/9ff1b757-0211-4b6b-8754-678887f76b0f)
+![image](https://github.com/Rickozono/Analisis-Incendios-Argentina/assets/51711170/7300fed2-902e-4d2c-aa8d-c910ff09ba28)
 
 ## Incendios intencionales
-![image](https://github.com/Rickozono/Analisis-Incendios-Argentina/assets/51711170/addb63e7-9c34-4c84-9a05-78cbd8d22972)
+![image](https://github.com/Rickozono/Analisis-Incendios-Argentina/assets/51711170/13fdb50f-df96-425a-9cf1-e4d0e8532ee0)
 
 ## Incendios por causa desconocida
-![image](https://github.com/Rickozono/Analisis-Incendios-Argentina/assets/51711170/ee92e2f5-0022-485d-b10d-7d81ef668aa2)
+![image](https://github.com/Rickozono/Analisis-Incendios-Argentina/assets/51711170/3cb4dc4e-599b-465a-91ae-0aca3937c5ea)
 
 ## Incendios por causa natural
-![image](https://github.com/Rickozono/Analisis-Incendios-Argentina/assets/51711170/627458cb-d09a-4747-9a57-59409ce6ddbd)
+![image](https://github.com/Rickozono/Analisis-Incendios-Argentina/assets/51711170/1d887ab3-cfe3-4ff7-9d63-b3c52d47e2a4)
 
 ## Incendios por negligencia
-![image](https://github.com/Rickozono/Analisis-Incendios-Argentina/assets/51711170/4066b356-644b-4279-8725-9219758b6374)
+![image](https://github.com/Rickozono/Analisis-Incendios-Argentina/assets/51711170/4ef08a58-aa17-476b-b2a9-5fe193ac5012)
+
 
 
